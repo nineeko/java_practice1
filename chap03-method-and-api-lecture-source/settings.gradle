@@ -1,0 +1,4 @@
+rootProject.name = 'chap03-method-and-api-lecture-source'
+include 'src:main:com.neeko'
+findProject(':src:main:com.neeko')?.name = 'com.neeko'
+
