@@ -1,4 +1,4 @@
-package com.neeko.section4.constructor;
+package com.neeko.section04.constructor;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.neeko.section2.encapsulation.problem3;
+package com.neeko.section02.encapsulation.problem3;
 
 public class Monster {
     /* 접근 제한자

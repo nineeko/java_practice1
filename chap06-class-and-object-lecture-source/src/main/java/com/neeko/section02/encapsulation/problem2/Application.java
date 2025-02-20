@@ -1,4 +1,4 @@
-package com.neeko.section2.encapsulation.problem2;
+package com.neeko.section02.encapsulation.problem2;
 
 
 public class Application {
@@ -8,13 +8,13 @@ public class Application {
         /* 필드에 직접 접근하면 변경이 발생했을 때 사용한 코드를 모두 수정해야 한다.
         * 이는 유지보수적인 측면에서 악영향을 끼친다.*/
 
-        com.neeko.section2.encapsulation.problem2.Monster m1 =new com.neeko.section2.encapsulation.problem2.Monster();
+        com.neeko.section02.encapsulation.problem2.Monster m1 =new com.neeko.section02.encapsulation.problem2.Monster();
        // m1.name ="김태환";
         m1.hp= 200;
        // System.out.println("m1.name = "+m1.name);
         System.out.println("m1.hp = "+m1.hp);
 
-        com.neeko.section2.encapsulation.problem2.Monster m2 =new com.neeko.section2.encapsulation.problem2.Monster();
+        com.neeko.section02.encapsulation.problem2.Monster m2 =new com.neeko.section02.encapsulation.problem2.Monster();
        // m2.name ="이기연";
        m2.hp= -200;
       // System.out.println("m1.name = "+m2.name);

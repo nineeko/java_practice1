@@ -1,4 +1,4 @@
-package com.neeko.section2.encapsulation.problem2;
+package com.neeko.section02.encapsulation.problem2;
 
 public class Monster {
     /*monster 클래스가 유지보수 과정에서 변경 사항이 발생했다고 가정한다.
