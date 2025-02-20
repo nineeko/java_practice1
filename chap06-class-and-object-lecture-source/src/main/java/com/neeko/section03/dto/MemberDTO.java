@@ -1,4 +1,4 @@
-package com.neeko.section3.dto;
+package com.neeko.section03.dto;
 
 public class MemberDTO {
 

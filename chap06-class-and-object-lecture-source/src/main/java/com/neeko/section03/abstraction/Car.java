@@ -1,4 +1,4 @@
-package com.neeko.section3.abstraction;
+package com.neeko.section03.abstraction;
 
 
 public class Car {
