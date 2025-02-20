@@ -36,7 +36,7 @@ public class Application1 {
         System.out.print("숫자를 입력하세요: ");
         int num = in.nextInt();
         if(num >26){
-            num = num - 26;
+            num = num % 26;
         }
 
         for(int i= 0; i<word.length(); i++){

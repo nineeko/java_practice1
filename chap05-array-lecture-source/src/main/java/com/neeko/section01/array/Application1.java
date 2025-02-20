@@ -1,4 +1,4 @@
-package section01.array;
+package com.neeko.section01.array;
 
 public class Application1 {
     /* 배열의 선언 및 할당 */

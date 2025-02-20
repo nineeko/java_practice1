@@ -1,4 +1,4 @@
-package section01.array;
+package com.neeko.section01.array;
 
 import java.util.Arrays;
 
