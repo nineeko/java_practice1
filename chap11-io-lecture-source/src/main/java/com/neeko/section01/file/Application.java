@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.file;
+package com.neeko.section01.file;
 
 import java.io.File;
 import java.io.IOException;

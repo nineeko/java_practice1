@@ -1,7 +1,6 @@
-package com.ohgiraffers.section02.stream;
+package com.neeko.section02.stream;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Arrays;
 
