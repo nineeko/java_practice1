@@ -2,7 +2,6 @@ package com.ohgiraffers.level01.normal;
 
 import java.util.Arrays;
 
-import static java.util.Collections.swap;
 
 public class Application1 {
 
