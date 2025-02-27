@@ -1,4 +1,4 @@
-package com.neeko.section01.list;
+package com.neeko.section01.list.comparator;
 
 import com.neeko.section01.list.dto.BookDTO;
 

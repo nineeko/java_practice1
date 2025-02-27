@@ -1,6 +1,6 @@
 package com.neeko.section01.list.run;
 
-import com.neeko.section01.list.AscendingPrice;
+import com.neeko.section01.list.comparator.AscendingPrice;
 import com.neeko.section01.list.dto.BookDTO;
 
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class Applicaton2 {
+public class Application2 {
     public static void main(String[] args) {
         /* 사용자 정의 자료형으로 ArrayList 생성하고 정렬하기 */
         List<BookDTO> bookList = new ArrayList<>();
