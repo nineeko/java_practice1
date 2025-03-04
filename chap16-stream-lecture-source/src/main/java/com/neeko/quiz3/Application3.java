@@ -23,7 +23,9 @@ public class Application3 {
                 .collect(Collectors.toList());
 
         // 2. 모든 영화의 평균 상영시간을 계산하여 반환
-        double averageDuration = movies.stream().mapToInt(Movie::getDuration).average().getAsDouble();
+        double averageDuration = movies.stream()
+                .mapToInt(Movie::getDuration)
+                .average().getAsDouble();
 
         // 3. 각 장르별 최고 평점을 가진 영화의 제목을 맵으로 반환
         Map<String, String> topRatedMoviesByGenre = movies.stream()

@@ -35,7 +35,7 @@ public class Application1 {
                 ));
 
                 System.out.println(allNames); // 출력 예시: "홍길동, 김철수, 이영희, 박민수, 최지현, 한석봉"
-       System.out.println(highSalaryIT); // 출력 예시: [이영희, 홍길동, 한석봉]
-      System.out.println(averageSalaryByDept); // 출력 예시: {HR=3250.0, IT=6000.0, 영업=4000.0}
+                System.out.println(highSalaryIT); // 출력 예시: [이영희, 홍길동, 한석봉]
+                System.out.println(averageSalaryByDept); // 출력 예시: {HR=3250.0, IT=6000.0, 영업=4000.0}
     }
 }

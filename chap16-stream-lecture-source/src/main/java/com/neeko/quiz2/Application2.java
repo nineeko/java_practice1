@@ -31,7 +31,7 @@ public class Application2 {
                 .map(Order::getCustomerName)
                 .orElse("없음");
 
-                System.out.println(completedOrderIds); // 출력 예시: ["O001", "O003"]
+        System.out.println(completedOrderIds); // 출력 예시: ["O001", "O003"]
         System.out.println(totalAmountByCustomer); // 출력 예시: {홍길동=1200.0, 김철수=800.0, 이영희=600.0, 박민수=300.0}
         System.out.println(highestOrderCustomer); // 출력 예시: "홍길동"
     }
